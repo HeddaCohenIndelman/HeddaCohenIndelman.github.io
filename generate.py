@@ -16,7 +16,7 @@ from jinja2 import Template
 papers = [
 {
         "title": "On The Statistical Representation Properties Of The Perturb-Softmax And The Perturb-Argmax Probability Distributions",
-        "authors": "Hedda Cohen Indelman, Tamir Hazan",
+        "authors": "<u>Hedda Cohen Indelman</u>, Tamir Hazan",
         "venue": "",
         "links": {
             "PDF,": "https://arxiv.org/pdf/2406.02180",
@@ -33,7 +33,7 @@ papers = [
     },
     {
         "title": "Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models",
-        "authors": "Hedda Cohen Indelman, Elay Dahan, Angeles M Perez-Agosto, Carmit Shiran, Doron Shaked, Nati Daniel",
+        "authors": "<u>Hedda Cohen Indelman</u>, Elay Dahan, Angeles M Perez-Agosto, Carmit Shiran, Doron Shaked, Nati Daniel",
         "venue": "Annual International Conference of the IEEE, Engineering in Medicine and Biology Society (EMBC), 2024",
         "links": {
             "PDF,": "https://arxiv.org/pdf/2404.16325",
@@ -50,7 +50,7 @@ papers = [
     },
     {
         "title": "Learning Latent Partial Matchings with Gumbel-IPF Networks",
-        "authors": "Hedda Cohen Indelman, Tamir Hazan",
+        "authors": "<u>Hedda Cohen Indelman</u>, Tamir Hazan",
         "venue": "International Conference on Artificial Intelligence and Statistics (AISTATS), 2024",
         "links": {
             "PDF,": "https://proceedings.mlr.press/v238/cohen-indelman24a/cohen-indelman24a.pdf",
@@ -73,7 +73,7 @@ papers = [
     },
     {
         "title": "InDi: Informative and Diverse Sampling for Dense Retrieval",
-        "authors": "Nachshon Cohen, Hedda Cohen Indelman*, Yaron Fairstein, Guy Kushilevitz",
+        "authors": "Nachshon Cohen, <u>Hedda Cohen Indelman</u>, Yaron Fairstein, Guy Kushilevitz",
         "venue": " European Conference on Information Retrieval, (ECIR), 2024",
         "links": {
             "PDF,": "https://assets.amazon.science/39/b7/5ce986a64af6a9c21d163aedf307/indi-informative-and-diverse-sampling-for-dense-retrieval.pdf",
@@ -96,7 +96,7 @@ papers = [
     },
     {
         "title": "Learning Constrained Structured Spaces with Application to Multi-Graph Matching",
-        "authors": "Hedda Cohen Indelman, Tamir Hazan",
+        "authors": "<u>Hedda Cohen Indelman</u>, Tamir Hazan",
         "venue": "International Conference on Artificial Intelligence and Statistics (AISTATS), 2023",
         "links": {
             "PDF,": "https://proceedings.mlr.press/v206/indelman23a/indelman23a.pdf",
@@ -120,7 +120,7 @@ papers = [
     },
     {
         "title": "Learning randomly perturbed structured predictors for direct loss minimization",
-        "authors": "Hedda Cohen Indelman, Tamir Hazan",
+        "authors": "<u>Hedda Cohen Indelman</u>, Tamir Hazan",
         "venue": "International Conference on Machine Learning (ICML), 2021",
         "links": {
             "PDF,": "https://proceedings.mlr.press/v139/indelman21a/indelman21a.pdf",
